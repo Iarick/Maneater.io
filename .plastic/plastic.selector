@@ -1,0 +1,4 @@
+repository "Maneater.io@jartltsoldatov@cloud"
+  path "/"
+    br "/main"
+    co "/main"
